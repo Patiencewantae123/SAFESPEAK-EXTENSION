@@ -1,4 +1,3 @@
----
 
 # ✨ SafeSpeak Chrome Extension ✨
 
